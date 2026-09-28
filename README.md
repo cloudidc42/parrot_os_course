@@ -117,16 +117,16 @@
 ### ระดับ 5: ระดับโลก (World-Class) - Part 91-100
 | Part | หัวข้อ | Steps |
 |------|--------|-------|
-| 91 | Zero-Day Vulnerability Research | 901-910 |
-| 92 | Advanced Exploit Development | 911-920 |
-| 93 | APT (Advanced Persistent Threat) Simulation | 921-930 |
-| 94 | Nation-State Level Techniques | 931-940 |
-| 95 | Advanced Red Team Operations | 941-950 |
-| 96 | Bug Bounty Hunting ระดับสูง | 951-960 |
-| 97 | Security Research & Publication | 961-970 |
-| 98 | Building Custom Security Tools | 971-980 |
-| 99 | Career Path in Cybersecurity | 981-990 |
-| 100 | สรุปและทิศทางต่อไป | 991-1000 |
+| 91 | Advanced Credential Attacks | 901-910 |
+| 92 | Purple Team Operations | 911-920 |
+| 93 | Threat Modeling | 921-930 |
+| 94 | Red Team Report Writing | 931-940 |
+| 95 | Advanced Cloud Attacks (Azure & GCP) | 941-950 |
+| 96 | Hardware Hacking & Firmware Analysis | 951-960 |
+| 97 | Advanced Post-Exploitation | 961-970 |
+| 98 | Blue Team & SOC Operations | 971-980 |
+| 99 | Web3 & Blockchain Security | 981-990 |
+| 100 | Capstone: Full Red Team Engagement | 991-1000 |
 
 ---
 
@@ -141,6 +141,8 @@
 - **Post-Exploitation**: Mimikatz, BloodHound, Empire, Cobalt Strike
 - **Wireless**: Aircrack-ng, Kismet, Wifite
 - **Forensics**: Autopsy, Volatility, Binwalk
+- **C2 Frameworks**: Sliver, Havoc, Cobalt Strike
+- **Web3**: Web3.py, Foundry, Slither, Echidna
 
 ---
 
@@ -160,6 +162,12 @@
 - Lab Environment ที่ตั้งขึ้นเอง
 - Bug Bounty Programs ที่ได้รับอนุญาต
 - Penetration Testing ที่มีสัญญา
+
+---
+
+## ✅ สถานะหลักสูตร
+
+**COMPLETED** — ทั้ง 100 Parts (1,000 Steps) เสร็จสมบูรณ์แล้ว
 
 ---
 
